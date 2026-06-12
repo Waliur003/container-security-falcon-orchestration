@@ -1,0 +1,1 @@
+print("Container Security Falcon microservice running successfully under non-root enforcement!")
