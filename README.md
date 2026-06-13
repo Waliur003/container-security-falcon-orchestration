@@ -38,7 +38,8 @@ As containerized microservices scale across multi-cloud enterprise footprints, v
 
 ## Architecture Diagram
 
-[Insert Container Security Falcon Architecture Diagram Here]
+<img width="1169" height="827" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/9d379837-c16b-4b3a-b8e2-b520e4bc69f1" />
+
 
 ## Project Procedure
 
